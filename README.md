@@ -1,8 +1,5 @@
 # BISS-IOT
 
-## Basic Concept
-![concept](./assets/concept.jpg)
-
 ## Usage
 
 ### 1. Run install.sh
